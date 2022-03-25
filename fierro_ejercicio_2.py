@@ -1,3 +1,15 @@
+'''
+------------------------------
+Autor: Johana Rangel
+email: johanarang@hotmail.com
+
+Descripción:
+Programa que analiza el archivo de recorridos de Bicicletas 
+de la Ciudad y devuelve las tres estaciones de origen más 
+“calientes” (de las que salen más recorridos) en la mañana 
+(de 6 a 11:59) 
+'''
+
 import csv
 from datetime import datetime
 
