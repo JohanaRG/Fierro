@@ -13,6 +13,7 @@ de la Ciudad y devuelve las tres estaciones de origen más
 import csv
 from datetime import datetime
 
+
 datos = []  
 with open("trips_2021.csv", newline='', encoding='utf-8') as csvfile:
     data = csv.DictReader(csvfile)

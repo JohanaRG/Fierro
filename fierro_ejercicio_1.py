@@ -7,6 +7,7 @@ Descripción:
 Programa que imprime los X primeros “Happy Numbers"
 '''
 
+
 def suma_digitos(number):
     '''Función que separa digitos y retorna la 
     suma de los cuadrados de los dígitos'''
