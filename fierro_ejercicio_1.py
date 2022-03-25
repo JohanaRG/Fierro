@@ -16,6 +16,7 @@ def suma_digitos(number):
     suma_cuadrados = sum([x**2 for x in digitos_obtenidos])
     return suma_cuadrados
 
+
 def evaluar_suma(numero, cantidad_nros):
     '''Función que evalua la suma si es igual a 1 y 
     retorna el resultado de suma'''
